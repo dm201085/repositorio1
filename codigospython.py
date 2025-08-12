@@ -17,6 +17,7 @@
      #break
 #print('oi)
 
+
 #for n in range (21):
     #if n % 2 ==0:
        #print(n)
@@ -28,6 +29,7 @@
     #print("acertou")
     #break
 
+
 #numero = 0
 #while numero <= 4:
 #   int(input('digite um numero'))
@@ -36,15 +38,54 @@
 #soma += 
 
 
+#soma = 0
+# #numero = 0
+# while numero <= 4:
+#     n1 = int(input("digite um numero"))
+#     numero += 1
+#     soma += n1
+#     print(f"{soma}")
 
-soma = 0
-numero = 0
-while numero <= 4:
-    n1 = int(input("digite um numero"))
-    numero += 1
-    soma += n1
-    print(f"{soma}")
+
+# for n in range (1,11):
+#     if n % 2 != 0:
+#         continue
+#     print(n)
+
+
+# for n in range (1,11):
+#     if n % 2 == 0:
+#         continue
+#     print(n)
+
+
+# contador = 0
+# while True:
+#     n = int(input('digite um número'))
+#     if n == 0: 
+#             break
+#     contador += 1
+# print(f"a quandidade de números é {contador}")
+
+
+# n = int(input('digite um número'))
+# print('a tabuada do seu número é')
+# print(n * 1)
+# print(n * 2)
+# print(n * 3)
+# print(n * 4)
+# print(n * 5)
+# print(n * 6)
+# print(n * 7)
+# print(n * 8)
+# print(n * 9)
+# print(n * 10)
+
+
+
     
+    
+
 
 
 
